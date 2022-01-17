@@ -39,3 +39,9 @@ I created a model and added migration and planned out all the categories I wante
 # Edit and Delete functions
 <br>
 I added a functioning edit page for any item in the database and had the ability to delete that item. I used the model forms and instances to display the content of a single item from the database and had the views function to send the information for the single item. I then included the option to delete an item with a confirmation that the user wants to delete.
+<br>
+<a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/edit.png"> Edit </a>
+<br>
+<a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/delete.png"> Delete </a>
+<br> 
+<a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/details.png"> Details </a>
