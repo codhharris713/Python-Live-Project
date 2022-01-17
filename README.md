@@ -20,7 +20,14 @@ Then I added function to the views to render the home page and registerd the url
 <br>
 I created a model and added migration and planned out all the categories I wanted to track for my object, including a objects manager for accessing the database.
  To create a user input form, I created a model form that included any inputs the user needed to make. I added a template for my app folder and added a views function that renders the create page and utilizes the model form to save the item to the database. The user could then add to the database throught my template rather then through admin.
- 
+ <br>
+ <a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/model.png"> Model </a>
+ <br>
+ <a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/forms.png"> Form </a>
+ <br>
+ <a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/create.png"> Form Template </a>
+ <br>
+ <a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/views1.png"> Form Views Function </a>
  <br>
  
  # Display information from the database
