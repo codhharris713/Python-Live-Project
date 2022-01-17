@@ -10,7 +10,8 @@
  I created the new app for the project, and named it appropriately for what I was going to be tracking.
  Frist I created the base and home templates in a new template folder and included block tags.
 Then I added function to the views to render the home page and registerd the urls with the Main App, linking my app's home page to the projects home page by adding a image link. Last on this step I then added basic styling to the base and home.
-
+<a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/base.png">Base Template </a>
+<a href ="https://github.com/codhharris713/Python-Live-Project/blob/main/home.png">Home Template </a>
 <br>
 
 # Creating a model 
